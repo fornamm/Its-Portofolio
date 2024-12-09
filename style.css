@@ -217,7 +217,7 @@
   
   /* Portfolio Styling */
   .portfolio {
-    padding: 2rem 8rem;
+    padding: 4rem 12rem;
     background-color: #7d96ae;
     text-align: center;
   }
@@ -362,7 +362,7 @@
   }
   
   .contact-info .social-link:hover {
-    color: #dddddd;
+    color: #3c3c3c;
   }
   
   /* Footer Styling */
